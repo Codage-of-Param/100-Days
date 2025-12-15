@@ -1,0 +1,14 @@
+1. What Machine learning (ML) :
+
+- It is an algorithm which  learning from data.
+
+
+
+2. Why we need ML?
+
+- Before the Machine learning(before 2010)  is in the market we write explicit code.
+- In explicit code we write logics(program) and according to user input it gives output but it gives for the particular words or for conditions.
+
+Example:
+- If i want to find spam emails from mail box then i write explicit code for the particular word that if word is big then the mail is spam mail. But in another mails they are using word instead of huge then its also a spam mail but explicit code can't find it because it does not contain any condition for the word huge.
+- If we use machine learning then it get it because it learns pattern. Whenever you give a new data it learns from data and make a pattern for the prediction(output).

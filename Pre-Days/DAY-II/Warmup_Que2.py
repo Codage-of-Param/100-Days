@@ -3,7 +3,6 @@ def Comparision(x,Freshness_list, Cost_list):
     
     for i in range(len(Freshness_list)):
         if (Freshness_list[i] >= x):
-            # print(Cost_list[j])
             Total_cost = Cost_list[i]+Total_cost
     
     print(f"\nTotal cost of fresh item/s is/are {Total_cost}.")
@@ -29,5 +28,3 @@ while (n!=0):
     i+=1
     
 Comparision(x,Freshness_list, Cost_list)
-    
-    

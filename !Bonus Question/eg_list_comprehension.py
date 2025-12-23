@@ -8,7 +8,7 @@ table = [number*j for j in i]
 print(table)
 
 
-# approach 1 : Without list
+# approach 2 : Without list
 number = int(input("Enter a number for table: "))
 table = [number*j for j in range(1,11)]
 print(table)

@@ -8,7 +8,7 @@
 
 
 
->> There are many implementation :
+=> There are many implementation :
 
 
 
@@ -64,23 +64,23 @@
 
 
 
-* **Undo/Redo functionality**: Each action gets pushed onto a stack, and undoing pops from it.
+	* **Undo/Redo functionality**: Each action gets pushed onto a stack, and undoing pops from it.
 
 
 
-* **Browser** **history**: Back button pops from the history stack.
+	* **Browser** **history**: Back button pops from the history stack.
 
 
 
-* **Expression evaluation**: Converting infix to postfix notation or evaluating expressions.
+	* **Expression evaluation**: Converting infix to postfix notation or evaluating expressions.
 
 
 
-* **Depth-first search (DFS)**: Traversing graphs or trees.
+	* **Depth-first search (DFS)**: Traversing graphs or trees.
 
 
 
-* **Balanced parentheses**: Checking if brackets/parentheses are properly matched.
+	* **Balanced parentheses**: Checking if brackets/parentheses are properly matched.
 
 
 

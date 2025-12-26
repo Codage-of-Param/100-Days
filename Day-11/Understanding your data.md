@@ -6,13 +6,13 @@
 
 # 🔍 Key Questions to Ask Your Data
 
-**1. How big is the data?**
+## **1. How big is the data?**
 
 - Check number of rows and columns
 
 - Example: df.shape in pandas returns (rows, columns)
 
-**2. How does the data look?**
+## **2. How does the data look?**
 
 - View first/last few rows
 
@@ -20,7 +20,7 @@
 
 => Check sample records to understand structure
 
-**3. What is the data type of columns?**
+## **3. What is the data type of columns?**
 
 - Identify categorical vs numerical data
 
@@ -36,7 +36,7 @@
 
 - Visualize missing data with heatmaps
 
-**5. How does the data look mathematically?**
+## **5. How does the data look mathematically?**
 
 - Get statistical summaries
 
@@ -44,7 +44,7 @@
 
 => Check distributions, outliers
 
-**6. Are there any duplicate values?**
+## **6. Are there any duplicate values?**
 
 - Identify and handle duplicate rows
 
@@ -52,7 +52,7 @@
 
 => Consider context before removing
 
-**7. How is the correlation between columns?**
+## **7. How is the correlation between columns?**
 
 - Analyze relationships between variables
 

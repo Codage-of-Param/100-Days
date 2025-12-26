@@ -1,3 +1,4 @@
+---
 # **📋 Core Concept**
 
 - Understanding your data is the foundational step in any data analysis. It involves exploring data characteristics, patterns, and relationships to gain actionable insights. Quality data is fundamental—it must be appropriately sourced and cleansed.
@@ -28,7 +29,7 @@
 
 - Example: df.dtypes or df.info() in pandas
 
-**4. Are there any missing values?**
+## **4. Are there any missing values?**
 
 - Identify null/NaN values
 
@@ -63,7 +64,7 @@
 ---
 
 
-**🚀 Next Steps After Data Understanding**
+## ***🚀 Next Steps After Data Understanding:***
 
 - Data cleaning - handle missing values, outliers, duplicates
 

@@ -1,0 +1,6 @@
+Python 3.8+
+Jupyter Notebook
+NumPy & Pandas
+Matplotlib / Seaborn
+scikit-learn
+TensorFlow or PyTorch (for Deep Learning) :contentReference[oaicite:13]{index=13}

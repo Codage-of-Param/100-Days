@@ -89,7 +89,7 @@
 | isEmpty         | `len(q)`        | **O(1)**        | Stored length        |
 | Size            | `len(q)`        | **O(1)**        | Constant             |
 
-? **Why `deque` is faster than LIST**:
+# ? Why `deque` is faster than LIST
 
 | Feature            | `list`        | `deque`                  |
 | ------------------ | ------------- | ------------------------ |
@@ -99,7 +99,7 @@
 | Large-scale queues | Inefficient   | **Highly efficient**     |
 
 
-* **Internal Working:**
+# Internal Working:
 
 ```scss
 
@@ -115,7 +115,7 @@ popleft() → pointer shift → O(1)
 
 ```
 
-# **Is `deque` thread-safe?**
+# **Is `deque` [thread-safe](https://github.com/Codage-of-Param/100-Days/blob/main/Day-17/thread_safety.md)?**
 
 - Append/pop operations are atomic in CPython, but not fully synchronized.
 

@@ -20,10 +20,10 @@
 
 If ( x ) is a positive feature and λ is the transform parameter:
 
-* If ( λ \neq 0 ):
-  ( y = \frac{x^{λ} - 1}{λ} )
+* If ( λ != 0 ):
+  ( y = (x^λ -1) / λ )
 * If ( λ = 0 ):
-  ( y = \log(x) )
+  ( y = log(x) )
 
 **Example:**
 Original values: `[1, 2, 4, 10]`
@@ -130,7 +130,7 @@ X_transformed = yeo_johnson_transformer.fit_transform(X)
 
 ---
 
-### **Overall Benefits**
+### - **Overall Benefits**
 
 * Normalizes skewed distributions.
 * Reduces impact of extreme values.
